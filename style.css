@@ -12,7 +12,7 @@ body{
 }
 @media (max-width: 760px) {
   body{
-    padding-top: 8vh;
+    padding-top: 10vh;
   }
   .header {
     background: url("./images/mobileHeroBg.png");
