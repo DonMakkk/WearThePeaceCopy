@@ -1,0 +1,38 @@
+body{
+    padding-top: 8vh;
+}
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+.header {
+  background: url("./images/herobg.png");
+  background-position: center;
+  height: 30vh;
+}
+@media (max-width: 760px) {
+  .header {
+    background: url("./images/mobileHeroBg.png");
+    background-position: center;
+    background-size: cover;
+  }
+   .navbar .offcanvas {
+    --bs-offcanvas-width: 80vw;
+  }
+  .navbar-collapse{
+    align-items: start;
+    padding: 1em;
+  }
+  .offcanvas-header{
+    justify-content: flex-end;
+  }
+  .footerImage{
+    display: none;
+  }
+}
+
+.footerImage{
+    background: url("./images/footerbg.png");
+    height:  75vh;
+    background-repeat: no-repeat;
+}
