@@ -10,12 +10,12 @@ const showProducts = async () => {
     .map((element) => {
       const { name, image, price} = element;
       return `
-      <div class="col-6 col-md-3">
-      <div class="card h-100">
+      <div class="col-6 col-md-3 ">
+      <div class="card shadow h-100">
       <img src="${image}" alt="">
       <div class="p-3 text-center text-">
      <p> ${name}</p>
-      <p>${price}</p>
+      <p>₱${price}</p>
       </div>
       </div>
       </div>`;

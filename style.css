@@ -1,5 +1,5 @@
 body{
-    padding-top: 8vh;
+    padding-top: 7vh;
 }
 .navbar-toggler:focus {
   outline: none;
@@ -11,6 +11,9 @@ body{
   height: 30vh;
 }
 @media (max-width: 760px) {
+  body{
+    padding-top: 8vh;
+  }
   .header {
     background: url("./images/mobileHeroBg.png");
     background-position: center;
