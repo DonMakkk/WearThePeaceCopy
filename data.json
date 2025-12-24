@@ -75,19 +75,19 @@
     "name": "Made In Gaza Crewneck (WTP X Belal Khaled)",
     "image": "./images/Made_In_Gaza_Crewneck.png",
     "price": 2400,
-    "type": "Hoodie"
+    "type": "Crewneck"
   },
   {
-    "name": "Press Hoodie",
-    "image": "./images/Press_Hoodie.png",
-    "price": 500,
-    "type": "Hoodie"
+    "name": "Freedom Bear Crewneck",
+    "image": "./images/Freedom_Bear_Crewneck.png",
+    "price": 2600,
+    "type": "Crewneck"
   },
   {
     "name": "The Soul Of My Soul Crewneck",
     "image": "./images/The_Soul_Of_My_Crewneck.png",
     "price": 2300,
-    "type": "Hoodie"
+    "type": "Crewneck"
   },
   {
     "name": "Aljafarawi Club Crewneck",

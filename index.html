@@ -55,11 +55,25 @@
               ></button>
             </div>
             <ul class="navbar-nav navbar-expand d-flex gap-3">
-              <li class="nav-item" style="cursor: pointer">
+              <li class="nav-item " style="cursor: pointer" type="button" id="shopBtn" data-bs-toggle="collapse" data-bs-target="#dropDownForShop">
                 SHOP<ion-icon
                   class="align-middle pb-1 ps-1"
                   name="chevron-down-outline"
                 ></ion-icon>
+                <!-- DESKTOP DROP DOWN -->
+                <div class="position-absolute bg-light p-3 collapse d-xs-none " id="dropDownForShop" >
+                  <ul class="list-unstyled pt-3 d-flex flex-column gap-3">
+                    <li>ALL PRODUCTS</li>
+                    <li>CLOTHING</li>
+                    <li>ACCESSORIES</li>
+                    <li>JEWELRY</li>
+                    <li>DEALS</li>
+                    <li>COLLABS</li>
+                    <li>BEST SELLER</li>
+                  </ul>
+                </div>
+                <!-- MOBILE OFFCANVAS -->
+                 
               </li>
               <li class="nav-item" style="cursor: pointer">
                 COLLECTIONS FOR 🍉
@@ -99,19 +113,19 @@
     <!-- FOOTER -->
     <footer>
       <div
-        class="justify-content-center align-content-center text-center d-md-none"
+        class="justify-content-center align-content-center text-center d-md-none pb-3"
       >
         <h3 class="text-dark fw-normal">Every Piece Gives Back</h3>
         <p class="text-secondary" style="font-size: 12px">
           Over $3M Donated To Humanitarian Causes
         </p>
-        <button class="btn bg-black text-light ps-5 pe-5 p-2 rounded-0">
+        <button class="btn bg-black text-light ps-5 pe-5 p-2 rounded-1 ">
           LEARN MORE
         </button>
       </div>
       <div class="footerImage pt-5">
         <div
-          class="justify-content-center align-content-center text-center mt-5"
+          class="justify-content-center align-content-center text-center "
         >
           <h3 class="text-dark fw-normal">Every Piece Gives Back</h3>
           <p class="text-secondary" style="font-size: 12px">
@@ -122,7 +136,7 @@
           </button>
         </div>
       </div>
-      <section class="justify-content-center p-5 bg-light pb-0">
+      <section class="justify-content-center p-5 bg-light pb-0 ">
         <div class="d-md-flex flex-md-row gap-5 text-center  justify-content-center">
           <div class="text-center me-md-5">
             <h5 class="fw-medium">Menu</h5>
