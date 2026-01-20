@@ -25,6 +25,8 @@ const showProducts = async () => {
 
 showProducts();
 
+
+
 //FUNCTION FOR DROPDOWNS
 // const dropDownForShop = document.getElementById("dropDownForShop");
 // const shop_drop_down = () => {

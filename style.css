@@ -39,3 +39,8 @@ body{
     height:  75vh;
     background-repeat: no-repeat;
 }
+.card:hover{
+  transform: translateY(-5px);
+  transition: transform 0.5 ease;
+}
+ul 

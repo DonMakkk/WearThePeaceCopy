@@ -1,95 +1,111 @@
 [
   {
+    "id": 1,
     "name": "Press Hoodie",
     "image": "./images/Press_Hoodie.png",
     "price": 2300,
     "type": "Hoodie"
   },
   {
+    "id": 2,
     "name": "Press Hoodie",
     "image": "./images/Aljafarawi_Club_V2_Heavyweight_Hoodie.png",
     "price": 500,
     "type": "Hoodie"
   },
   {
+    "id": 3,
     "name": "Press Hoodie",
     "image": "./images/Freedom_Bear_Heavyweight_Hoodie.png",
     "price": 500,
     "type": "Hoodie"
   },
   {
+    "id": 4,
     "name": "Kufiya Blanket Hoodie",
     "image": "./images/Kufiya_Blanket_Hoodie.png",
     "price": 3500.0,
     "type": "Hoodie"
   },
   {
+    "id": 5,
     "name": "Children Of 🍉 Art Heavyweight Hoodie",
     "image": "./images/Children_Of_Art_Heavyweight_Hoodie.png",
     "price": 3900.0,
     "type": "Hoodie"
   },
   {
+    "id": 6,
     "name": "Nablus' Olives Hoodie",
     "image": "./images/Nablus'_Olives_Hoodie.png",
     "price": 2700,
     "type": "Hoodie"
   },
   {
+    "id": 7,
     "name": "Dreams Of Gaza Vintage Hoodie (WTP X Belal Khaled)",
     "image": "./images/Dreams_Of_Gaza_Vintage_Hoodie.png",
     "price": 2900,
     "type": "Hoodie"
   },
   {
+    "id": 8,
     "name": "Falasteen Embroidered Hoodie",
     "image": "./images/Falasteen_Embroidered_Hoodie.png",
     "price": 500,
     "type": "Hoodie"
   },
   {
+    "id": 9,
     "name": "Pali Bear Embroidered Hoodie",
     "image": "./images/Pali_Bear_Embroidered_Hoodie.png",
     "price": 500,
     "type": "Hoodie"
   },
   {
+    "id": 10,
     "name": "Stand With The Oppressed Heavyweight Hoodie",
     "image": "./images/Stand_With_The_Oppressed_Heavyweight_Hoodie.png",
     "price": 3000,
     "type": "Hoodie"
   },
   {
+    "id": 11,
     "name": "Self Offense Hoodie",
     "image": "./images/Self_Offense_Hoodie.png",
     "price": 2700,
     "type": "Hoodie"
   },
   {
+    "id": 12,
     "name": "Made In Gaza Hoodie (WTP X Belal Khaled)",
     "image": "./images/Made_in_Gaza_Hoodie.png",
     "price": 2900,
     "type": "Hoodie"
   },
   {
+    "id": 13,
     "name": "Made In Gaza Crewneck (WTP X Belal Khaled)",
     "image": "./images/Made_In_Gaza_Crewneck.png",
     "price": 2400,
     "type": "Crewneck"
   },
   {
+    "id": 14,
     "name": "Freedom Bear Crewneck",
     "image": "./images/Freedom_Bear_Crewneck.png",
     "price": 2600,
     "type": "Crewneck"
   },
   {
+    "id": 15,
     "name": "The Soul Of My Soul Crewneck",
     "image": "./images/The_Soul_Of_My_Crewneck.png",
     "price": 2300,
     "type": "Crewneck"
   },
   {
+    "id": 16,
     "name": "Aljafarawi Club Crewneck",
     "image": "./images/Aljafarawi_Club_Crewneck.png",
     "price": 2600,
